@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohammore100&label=Profile%20views&color=0e75b6&style=flat" alt="sohammore100" /> </p>
 
-- 🌱 I’m currently learning **AI-ML & WordPress Custom Theme Development**
+- 🌱 I’m currently learning **AI-ML & Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamMore100](https://github.com/SohamMore100)
 
