@@ -6,8 +6,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Nice+to+%22e-see%22+you+here!;I'm+a+Full-Stack+Developer;A+Learner+Explorer+Adventurous+Nomad...." alt="Typing SVG" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohammore100&label=Profile%20views&color=0e75b6&style=flat" alt="sohammore100" /> </p>
-
 - 🌱 I’m currently learning **AI-ML & Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamMore100](https://github.com/SohamMore100)
