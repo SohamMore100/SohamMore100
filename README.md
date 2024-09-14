@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soham More (💻🏃‍♀☕📈) </h1>
+<h1 align="center">Hi 👋, I'm Soham More (💻🏊☕📈) </h1>
 <h3 align="center">A passionate Engineer and Full Stack Developer from India</h3>
 
 <img align="right" src="https://i.postimg.cc/66hXhDZ3/5f988079-b907-453f-b74b-ad8b43d5c3d9.gif' border='0' alt='5f988079-b907-453f-b74b-ad8b43d5c3d9'" alt="coding" width="350">
