@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=600&pause=1000&color=0999E8&background=7AFF8100&center=true&vCenter=true&width=435&lines=Nice+to+%22e-see%22+you+here!;I'm+a+Full-Stack+Developer;A+Learner+Explorer+Adventurous+Nomad...." alt="Typing SVG" /></a>
 
 
-- 🌱 I’m currently learning **AI-ML & Data Science**
+- 🌱 I’m currently learning **Next.js & Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SohamMore100](https://github.com/SohamMore100)
 
